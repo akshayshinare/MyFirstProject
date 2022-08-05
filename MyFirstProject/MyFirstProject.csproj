@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>MyFirstProject.ContentMent.Department</StartupObject>
+	  <StartupObject>MyFirstProject.Online_Assignment_Loops.PerimeterRactangle</StartupObject>
 	  
   </PropertyGroup>
 
