@@ -27,13 +27,13 @@ namespace MyFirstProject.Inheritance.Base_Keyword
         public Car():base("Disel")
         {
             Console.WriteLine("Swift "+base.wheels);
-            base.Avarage();
+          //  base.Avarage();
         }
 
         public void CompanyName()
         {
             Console.WriteLine("Maruti");
-          //  base.Avarage();
+            base.Avarage();
         }
     }
 
