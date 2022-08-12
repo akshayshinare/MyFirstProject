@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>MyFirstProject.Sunday_Test.OOPS.NationalGame</StartupObject>
+	  <StartupObject>MyFirstProject.Array_Topic.Home_Work.ReplaceSquare</StartupObject>
 	  
   </PropertyGroup>
 
