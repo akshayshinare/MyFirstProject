@@ -37,8 +37,6 @@ namespace MyFirstProject.Conditional
             {
                 Console.WriteLine("num3 is greater");
             }
-            
-    
         }
     }
 }

@@ -8,7 +8,7 @@ namespace MyFirstProject.Array_Topic.Home_Work
     {
         static void Main(string[] args)
         {
-            int[] R = { 12, 3, -19, 29, 5, -61, 44, 7, -9 };
+            int[] R = { -2, 3, -19, 29, 5, -61, 44, 7, -9 };
             Console.WriteLine("display array");
             foreach(int x in R)
             {
