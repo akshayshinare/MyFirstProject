@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>MyFirstProject.Touple.Calculator</StartupObject>
+	  <StartupObject>MyFirstProject.Interview_Program.ArrayPrime</StartupObject>
 	  
   </PropertyGroup>
 

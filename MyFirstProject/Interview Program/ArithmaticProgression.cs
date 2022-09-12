@@ -9,9 +9,12 @@ namespace MyFirstProject.Interview_Program
         static void Main(string[] args)
         {
             //Arithmatic Progression
+            Console.WriteLine("enter second number");
             int a2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("enter third number");
             int a3 = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("enter position");
             int n = int.Parse(Console.ReadLine());
             int d = a3 - a2;
 
